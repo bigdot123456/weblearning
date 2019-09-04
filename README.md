@@ -12,7 +12,7 @@ git push -u origin master
 + all command as following!
 ```bash
 scrapy startproject weblearning
-scrapy genspider searchsite http://www.1ppt.com/kejian/16501.html
+scrapy genspider searchsite www.1ppt.com/kejian/16501.html
 ```
 
 + In directory spider, you will see the following: 
@@ -22,11 +22,11 @@ searchsite.py
 edit a python file main.py
 ```python
 from scrapy.cmdline import execute
-execute(["scrapy","crawl","weblearning","-o","items.json"])
+execute(["scrapy","crawl","searchsite","-o","items.json"])
 ```
 It equals that command executed with the following:
 ```bash
-scrapy crawl weblearning -o items.json
+scrapy crawl searchsite -o items.json
 ```
 ## 一. 新建项目(scrapy startproject) 
 
