@@ -1,0 +1,291 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>八年级数学课件上册_人教版八年级数学上册PPT课件下载 - 第一PPT</title>
+<meta name="keywords" content="八年级数学课件上册,人教版八年级数学上册PPT课件下载" />
+<meta name="description" content="八年级数学课件上册，人教版八年级数学上册PPT课件下载；" />
+<link href="http://js.1ppt.com/core.css" rel="stylesheet" media="screen" type="text/css" />
+<link href="http://js.1ppt.com/kejian.css" rel="stylesheet" media="screen" type="text/css" />
+<script src="http://js.1ppt.com/ads.js"></script>
+<script src="http://libs.baidu.com/jquery/1.4.4/jquery.min.js"></script>
+</head>
+<body>
+<div class="topbar">
+  <div class="w center"> <span> <a href="http://www.1ppt.com">全站首页</a>|<a href="/moban/">PPT模板</a>|<a href="/sucai/">PPT素材</a>|<a href="/beijing/">PPT背景图片</a>|<a href="/tubiao/">PPT图表</a>|<a href="/xiazai/">PPT下载</a>|<a href="/office/">Office教程</a></span> <span class="toplinks"><a name=top></a><a href="/bbs.html" target="_blank" rel="nofollow">意见建议</a>|<a href="/about/fenxiang.html" target="_blank" rel="nofollow">素材分享</a>|<a href="/data/sitemap.html" target="_blank">网站地图</a>|<a href="/tags.php" target="_blank" rel="nofollow">TAG标签</a>|<a href="/data/rssmap.html" target="_blank" rel="nofollow">RSS订阅</a>|<a href="javascript:window.external.AddFavorite('http://www.1ppt.com','第一PPT')" rel="nofollow">加入收藏</a></span> </div>
+</div>
+<div class="w center">
+  <div class="logo w center">
+    <div> <a href="/kejian/"><img src="http://js.1ppt.com/logo_kejian.gif" alt="第一PPT课件下载"/></a> </div>
+  </div>
+  <div class="w head">
+    <div class="nav">
+      <div class="t_l"><a href='/kejian/'>首页</a></div>
+      <div id="navMenu">
+        <ul>
+          <li><a href="/kejian/#yuwen"><span>语文</span></a></li>
+          <li><a href="/kejian/#shuxue"><span>数学</span></a></li>
+          <li><a href="/kejian/#yingyu"><span>英语</span></a></li>
+          <li><a href="/kejian/#kexue"><span>科学</span></a></li>
+          <li><a href="/kejian/#daode"><span>道德</span></a></li>
+          <li><a href="/kejian/#shenghuo"><span>生活</span></a></li>
+          <li><a href="/kejian/#shehui"><span>社会</span></a></li>
+          <li><a href="/kejian/#pinde"><span>品德</span></a></li>
+          <li><a href="/kejian/#wuli"><span>物理</span></a></li>
+          <li><a href="/kejian/#huaxue"><span>化学</span></a></li>
+          <li><a href="/kejian/#dili"><span>地理</span></a></li>
+          <li><a href="/kejian/#lishi"><span>历史</span></a></li>
+          <li><a href="/kejian/#shengwu"><span>生物</span></a></li>
+          <li><a href="/kejian/#meishu"><span>美术</span></a></li>
+          <li><a href="/kejian/#yinyue"><span>音乐</span></a></li>
+          <li><a href="/kejian/#youer"><span>幼儿园</span></a></li>
+          <li><a href="/kejian/#banhui"><span>主题班会</span></a></li>
+        </ul>
+      </div>
+      <script>ads("hd_kjnav");</script>
+    </div>
+    <div class="searchtag mt2">
+      <div class="search">
+        <div class="form">
+          <form target="_blank" action="http://zhannei.baidu.com/cse/site">
+            <input type="text" name="q" size="30" class="keyword">
+            <input type="submit" value="搜索" class="submit">
+            <input type="hidden" name="cc" value="1ppt.com">
+            <input type="hidden" name="ie" value="gbk">
+          </form>
+        </div>
+        <div class="tags">
+          <script>ads("hd_kjtxt");</script>
+        </div>
+      </div>
+      <div class="searchad">
+        <script>ads("hd_bn");</script>
+      </div>
+    </div>
+    <!-- //search -->
+  </div>
+</div>
+<!-- //header -->
+
+<!-- /header -->
+<div class="w center mt4">
+  <script>ads("top_bn1");</script>
+  <script>ads("top_bn2");</script>
+  <script>ads("top_bn3");</script>   
+</div>
+<div class="w center mt4">
+  <div class="col_nav clearfix">
+      <ul>
+    <li><a target="_blank" href="http://www.1ppt.com/kejian/16501.html">★精选目录★</a></li>
+    <li>第一单元</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/385/">三角形</a></li>
+    <li>1.1<a target="_blank" href="http://www.1ppt.com/tags/5869/">三角形的边</a></li>
+    <li>1.2<a target="_blank" href="http://www.1ppt.com/tags/5870/">三角形的高、中线与角平分线</a></li>
+    <li>1.3<a target="_blank" href="http://www.1ppt.com/tags/5871/">三角形的稳定性</a></li>
+    <li>1.4<a target="_blank" href="http://www.1ppt.com/tags/5872/">三角形的内角</a></li>
+    <li>第二单元：</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/5873/">全等三角形</a></li>
+    <li>2.1<a target="_blank" href="http://www.1ppt.com/tags/5873/">全等三角形</a></li>
+    <li>2.2<a target="_blank" href="http://www.1ppt.com/tags/5874/">全等三角形的判定</a></li>
+    <li>2.3<a target="_blank" href="http://www.1ppt.com/tags/5875/">角平分线的性质</a></li>
+    <li>第三单元：</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/5013/">轴对称</a></li>
+    <li>3.1<a target="_blank" href="http://www.1ppt.com/tags/5013/">轴对称</a></li>
+    <li>3.2<a target="_blank" href="http://www.1ppt.com/tags/5876/">作轴对称图形</a></li>
+    <li>3.3<a target="_blank" href="http://www.1ppt.com/tags/5877/">用坐标表示轴对称</a></li>
+    <li>3.4<a target="_blank" href="http://www.1ppt.com/tags/5878/">等腰三角形</a></li>
+    <li>3.5<a target="_blank" href="http://www.1ppt.com/tags/5879/">等腰三角形的性质</a></li>
+    <li>3.6<a target="_blank" href="http://www.1ppt.com/tags/5880/">等腰三角形的判定</a></li>
+    <li>3.7<a target="_blank" href="http://www.1ppt.com/tags/5881/">等边三角形</a></li>
+    <li>第四单元：</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/5883/">实数</a></li>
+    <li>4.1<a target="_blank" href="http://www.1ppt.com/tags/5882/">平方根</a></li>
+    <li>4.2<a target="_blank" href="http://www.1ppt.com/tags/5884/">立方根</a></li>
+    <li>4.3<a target="_blank" href="http://www.1ppt.com/tags/5883/">实数</a></li>
+    <li>第五单元：</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/5885/">一次函数</a></li>
+    <li>5.1<a target="_blank" href="http://www.1ppt.com/tags/5886/">变量与函数</a></li>
+    <li>5.2<a target="_blank" href="http://www.1ppt.com/tags/5887/">函数的图像</a></li>
+    <li>5.3<a target="_blank" href="http://www.1ppt.com/tags/5888/">正比例函数</a></li>
+    <li>5.4<a target="_blank" href="http://www.1ppt.com/tags/5889/">正比例的函数和性质</a></li>
+    <li>5.5<a target="_blank" href="http://www.1ppt.com/tags/5890/">一次函数的图像和性质</a></li>
+    <li>5.6<a target="_blank" href="http://www.1ppt.com/tags/5891/">一次函数与一元一次方程</a></li>
+    <li>5.7<a target="_blank" href="http://www.1ppt.com/tags/5892/">一次函数与一元一次不等式</a></li>
+    <li>第六单元：</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/5893/">整式的乘除与因式分解</a></li>
+    <li>6.1<a target="_blank" href="http://www.1ppt.com/tags/5894/">单项式乘单项式</a></li>
+    <li>6.2<a target="_blank" href="http://www.1ppt.com/tags/5895/">整式的乘法</a></li>
+    <li>6.3<a target="_blank" href="http://www.1ppt.com/tags/5896/">多项式乘以多项式</a></li>
+    <li>6.4<a target="_blank" href="http://www.1ppt.com/tags/5897/">乘法公式</a></li>
+    <li>6.5<a target="_blank" href="http://www.1ppt.com/tags/5898/">整式的除法</a></li>
+    <li>6.6<a target="_blank" href="http://www.1ppt.com/tags/5899/">因式分解</a></li>
+    <li>第七单元：</li>
+    <li><a target="_blank" href="http://www.1ppt.com/tags/5900/">分式</a></li>
+    <li>7.1<a target="_blank" href="http://www.1ppt.com/tags/5900/">分式</a></li>
+    <li>7.2<a target="_blank" href="http://www.1ppt.com/tags/5901/">分式的乘除</a></li>
+    <li>7.3<a target="_blank" href="http://www.1ppt.com/tags/5902/">分式的加减</a></li>
+    <li>7.4<a target="_blank" href="http://www.1ppt.com/tags/5903/">分式的混合运算</a></li>
+    <li>7.5<a target="_blank" href="http://www.1ppt.com/tags/5904/">分式方程的应用</a></li>
+    <li>7.6<a target="_blank" href="http://www.1ppt.com/tags/5905/">分式方程</a></li>
+    <li>期中考试</li>
+    <li>期末考试</li>
+    <li><a target="_blank" href="http://www.1ppt.com/kejian/16501.html">★精选目录★</a></li>
+</ul>
+  </div>
+</div>
+<div class="w center mt4">
+  <div class="left pleft">
+    <dl class="dlbox">
+      <dt> <span class="place">当前位置:<a href='http://www.1ppt.com/'>第一PPT</a> > <a href='/kejian/'>PPT课件</a> > <a href='/kejian/shuxue/'>数学课件</a> > <a href='/kejian/shuxue/293/'>人教版八年级数学上册</a> > </span> </dt>
+      <dd>
+        <ul class="arclist">
+          <li class='arclistbg1'><a href='/kejian/16642.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z211432b2J.jpg' alt='《分式方程》分式PPT课件4' /></a>
+            <h2><a href="/kejian/16642.html" class="title" target="_blank">《分式方程》分式PPT课件4</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式方程》分式PPT课件4 情景问题: 一艘轮船在静水中的最大航速为20千米/时，它沿江最大航速顺流航行100千米所用时间，与以最大航速逆流航行60千米所用时间相等，江水的水流速度为多少？ 分析： 设江水的水流速度为v千米/时.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16641.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2113622c96.jpg' alt='《分式方程》分式PPT课件3' /></a>
+            <h2><a href="/kejian/16641.html" class="title" target="_blank">《分式方程》分式PPT课件3</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式方程》分式PPT课件3 【问题】 一艘轮船在静水中的最大航速为20千米/时它沿江以最大航速顺流航行100千米所用时间 与以最大航速航行60千米所用时间相等 江水的流速为多少? 解:设江水的流速为 v 千米/时，根据题意，得 100/.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16640.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z211263S606.jpg' alt='《分式方程》分式PPT课件2' /></a>
+            <h2><a href="/kejian/16640.html" class="title" target="_blank">《分式方程》分式PPT课件2</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式方程》分式PPT课件2 教学目标 【课程标准】 1．了解分式方程的概念 和产生增根的原因． 2．掌握分式方程的解法，会解可化为一元一次方程的分式方程，会检验一个数是不是原方程的增根． 3．会分析题意找出等量关系． 4．.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16639.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z21115095341.jpg' alt='《分式方程》分式PPT课件' /></a>
+            <h2><a href="/kejian/16639.html" class="title" target="_blank">《分式方程》分式PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式方程》分式PPT课件 学习目标： 1、理解整式方程、分式方程及增根的概念； 2、掌握可化为一元一次、一元二次方程的分式方程的解法； 3、了解分式方程产生增根的原因及掌握验根的方法。 增根的定义 增根:在去分母将分式方.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16638.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2110500K96.jpg' alt='《分式方程的应用》分式PPT课件2' /></a>
+            <h2><a href="/kejian/16638.html" class="title" target="_blank">《分式方程的应用》分式PPT课件2</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式方程的应用》分式PPT课件2 教学目标： 1、用列表法列分式方程、解决现实情境中的问题。 2、体会数学模型的应用价值。 教学重点：利用列表法审明题意，将实际问题转化为分式方程的数学模型。 教学难点：从有形的列表逐渐.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16637.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2105G09391.jpg' alt='《分式方程的应用》分式PPT课件' /></a>
+            <h2><a href="/kejian/16637.html" class="title" target="_blank">《分式方程的应用》分式PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式方程的应用》分式PPT课件 例题3： 两个工程队共同参与一项筑路工程，甲队单施工1个月完成总工程的三分之一，这时增加了乙队，两队又共同工作了半个月，总工程全部完成。哪个的施工队速度快？ 分析：甲队1个月完成总工程.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16636.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2104F41V0.jpg' alt='《分式的混合运算》分式PPT课件' /></a>
+            <h2><a href="/kejian/16636.html" class="title" target="_blank">《分式的混合运算》分式PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式的混合运算》分式PPT课件 研究解决： 这是一道关于分式乘除的题目，运算时应注意： ①按照运算法则运算； ②乘除运算属于同级运算，应按照先出现的先算的原则，不能交换运算顺序； ③当除写成乘的形式时，灵活的应用乘法.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16635.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z21031131002.jpg' alt='《分式的加减》分式PPT课件' /></a>
+            <h2><a href="/kejian/16635.html" class="title" target="_blank">《分式的加减》分式PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式的加减》分式PPT课件 教学目标 【知识与能力】 理解并掌握分式加减法则，并会运用它们时行分式的加减运算． 【过程与方法】 通过类比的方法，经历探索分式加减运算法则的过程，理解其算理． 【情感态度与价值观】 在活动.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16634.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z210163W4R.jpg' alt='《分式的乘除》分式PPT课件' /></a>
+            <h2><a href="/kejian/16634.html" class="title" target="_blank">《分式的乘除》分式PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式的乘除》分式PPT课件 分式的乘法法则 两个分式相乘，把分子相乘的积作为积的分子，把分母相乘的积作为积的分母。 用符号语言表达： a/bc/d=ac/bd 两个分式相除，把除式的分子和分母颠倒位置后再与被除式相乘。 用符号语.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16633.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z20956264964.jpg' alt='《分式》PPT课件3' /></a>
+            <h2><a href="/kejian/16633.html" class="title" target="_blank">《分式》PPT课件3</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式》PPT课件3 想一想？ 甲乙两人做某种机器零件。已知甲每小时比乙多做6个，甲做90个所用的时间与乙做60个所用的时间相等。求甲、乙每小时各做多少个？ 1. 甲每小时做x个零件，做90个零件所用的时间是90x小时，还可用式子9.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16632.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2093114D02.jpg' alt='《分式》PPT课件2' /></a>
+            <h2><a href="/kejian/16632.html" class="title" target="_blank">《分式》PPT课件2</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式》PPT课件2 教学目标、重点、难点 能用分式表示现实情境中的数量关系， 体会分式的模型思想，进一步发展符号感。 了解分式的概念，明确分式与整式的区别。 在土地沙化问题中， 体会保护人类生存环境的重要性。 了解分式.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16631.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2091J0c95.jpg' alt='《分式》PPT课件' /></a>
+            <h2><a href="/kejian/16631.html" class="title" target="_blank">《分式》PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
+            <p class="intro"> 《分式》PPT课件 单项式:数与字母或字母与字母的积 多项式:几个单项式的和 注意:代数式包括整式，也就是说整式是代数式但代数式就不一定是整式了． 注解： （１）分式也是代数式； （２）分式是两个整式的商，它的形式是A/B（.. </p>
+          </li>
+        </ul>
+        <!-- /listbox -->
+        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="50%" align="center">
+                <script>ads("lp_1");</script>
+              </td>
+            <td width="50%" align="center">
+                <script>ads("lp_2");</script>
+              </td>
+          </tr>
+        </table>
+        <div class="clearfix">
+          <ul class="pages">
+            <li class="nohref">首页</li>
+<li class="thisclass">1</li>
+<li><a href="kejian_2.html">2</a></li>
+<li><a href="kejian_3.html">3</a></li>
+<li><a href="kejian_4.html">4</a></li>
+<li><a href="kejian_5.html">5</a></li>
+<li><a href="kejian_6.html">6</a></li>
+<li><a href="kejian_7.html">7</a></li>
+<li><a href='kejian_2.html'>下一页</a></li>
+<li><a href='kejian_7.html'>末页</a></li>
+
+          </ul>
+        </div>
+        <!-- /pages -->
+      </dd>
+    </dl>
+  </div>
+  <div class="right pright">
+    <div>
+        <script>ads("cp_r1");</script>
+    </div>
+    <dl class="mt8 dlbox">
+      <dt><strong>热点人教版八年级数学上册</strong></dt>
+      <dd>
+        <ul class="tlist">
+          <li><a href="/kejian/16577.html" target="_blank">《全等三角形的判定》全等三角形PPT课件</a></li>
+<li><a href="/kejian/16501.html" target="_blank">【目录】人教版八年级数学上册PPT课件</a></li>
+<li><a href="/kejian/16611.html" target="_blank">《一次函数的图像和性质》一次函数PPT课件</a></li>
+<li><a href="/kejian/16574.html" target="_blank">《全等三角形》PPT课件</a></li>
+<li><a href="/kejian/16605.html" target="_blank">《函数的图像》一次函数PPT课件</a></li>
+<li><a href="/kejian/16607.html" target="_blank">《一次函数》PPT课件</a></li>
+<li><a href="/kejian/16596.html" target="_blank">《平方根》实数PPT课件</a></li>
+
+        </ul>
+      </dd>
+    </dl>
+    <div class="mt8">
+        <script>ads("lp_3");</script>
+    </div>
+    <dl class="dlbox mt8">
+      <dt><strong>最新人教版八年级数学上册</strong></dt>
+      <dd>
+        <ul class="tlist">
+          <li><a href="/kejian/16642.html" target="_blank">《分式方程》分式PPT课件4</a></li>
+<li><a href="/kejian/16641.html" target="_blank">《分式方程》分式PPT课件3</a></li>
+<li><a href="/kejian/16640.html" target="_blank">《分式方程》分式PPT课件2</a></li>
+<li><a href="/kejian/16639.html" target="_blank">《分式方程》分式PPT课件</a></li>
+<li><a href="/kejian/16638.html" target="_blank">《分式方程的应用》分式PPT课件2</a></li>
+<li><a href="/kejian/16637.html" target="_blank">《分式方程的应用》分式PPT课件</a></li>
+<li><a href="/kejian/16636.html" target="_blank">《分式的混合运算》分式PPT课件</a></li>
+
+        </ul>
+      </dd>
+    </dl>
+    <div class="mt8">
+        <script>ads("lp_4");</script>
+    </div>
+    <dl class="mt8 dlbox">
+      <dt><strong>热门标签</strong></dt>
+      <dd>
+        <div class="pr_tag">  <a href="/tags/12/">动态</a>  <a href="/tags/50/">简洁</a>  <a href="/tags/9/">蓝色</a>  <a href="/tags/88/">淡雅</a>  <a href="/tags/23/">绿色</a>  <a href="/tags/1/">红色</a>  <a href="/tags/80/">动画</a>  <a href="/tags/53/">精美</a>  <a href="/tags/186/">3d</a>  <a href="/tags/138/">黑色</a>  <a href="/tags/144/">立体</a>  <a href="/tags/20/">蓝天</a>  <a href="/tags/8/">黄色</a>  <a href="/tags/32/">彩色</a>  <a href="/tags/121/">粉色</a>  <a href="/tags/720/">smartart</a>  <a href="/tags/180/">爱心</a>  <a href="/tags/2/">喜庆</a>  <a href="/tags/225/">小人</a>  <a href="/tags/38/">草地</a>  </div>
+      </dd>
+    </dl>
+  </div>
+  <!-- /pright -->
+</div>
+<div class="w center mt8">
+  <div>
+    <script>ads("ft_bn1");</script>
+    <script>ads("ft_bn2");</script>    
+  </div>
+</div>
+<!-- //底部模板 -->
+
+<div class="footer w center mt8">
+  <div> <a href="/about/aboutus.html" target="_blank" rel="nofollow">关于我们</a> | <a href="/about/copyright.html" target="_blank" rel="nofollow">版权声明</a> | <a href="/about/contactus.html" target="_blank" rel="nofollow">联系方式</a> | <a href="/data/sitemap.html" target="_blank">网站地图</a> | <a href="/tags.php" target="_blank" rel="nofollow">TAG标签</a> | <a href="/data/rssmap.html" target="_blank" rel="nofollow">RSS订阅</a> |
+    <script language="javascript" type="text/javascript" src="http://js.users.51.la/12244372.js"></script>
+    <script src="http://s85.cnzz.com/stat.php?id=5092133&web_id=5092133&show=pic" language="JavaScript"></script>
+  </div>
+  <div>Copyright &copy; 2002-2012 www.1ppt.com All Rights Reserved.&nbsp;&nbsp;<a rel="nofollow" target="_blank"  href="http://beian.miit.gov.cn/">鲁ICP备14027646号-1</a></div>
+  <!-- /powered -->
+</div>
+<script src="http://js.1ppt.com/backtotop.js"></script>
+<script>ads("gl_1");</script>
+<!-- /footer -->
+</body>
+</html>

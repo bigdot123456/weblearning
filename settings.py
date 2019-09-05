@@ -14,6 +14,7 @@ BOT_NAME = 'weblearning'
 SPIDER_MODULES = ['weblearning.spiders']
 NEWSPIDER_MODULE = 'weblearning.spiders'
 
+FEED_EXPORT_ENCODING = 'utf-8-sig'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'weblearning (+http://www.yourdomain.com)'

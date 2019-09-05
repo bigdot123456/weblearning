@@ -1,4 +1,4 @@
-*** Readme
+# Readme
 Here is the creating script for this project  
 ```bash
 echo "# weblearning" >> README.md
@@ -16,7 +16,7 @@ scrapy genspider searchsite www.1ppt.com/kejian/16501.html
 ``` 
 
 
-*** we will create a search demo python file, here:
++ we will create a search demo python file, here:
 
 ```python
 # -*- coding: utf-8 -*-
@@ -172,6 +172,39 @@ sys.setdefaultencoding("utf-8")
 
 ### 2. 取数据
 
+
++ 首先运行如下调试命令：
+
+```shell script
+scrapy shell http://www.1ppt.com/kejian/shuxue/293/
+
+```
++ 如果发生错误，则可能是pip包不全，典型修订方法如下：
+```shell script
+pip install items
+```
+
+目前的摸索如下：
+```shell script
+
+# 最好借助工具 直接得到单独链接的xpath，然后通过替换获得
+# 另外，记得相对与绝对路径，两种其实就是一个搜索方式不同
+# 获取元素属性和文字的区别，一个是 @href 一个是text()
+# 典型的图片获取路径如下：
+
+imgs=html.xpath('//*[@class="gift"]/td[4]/img/@src')
+
+response.xpath('//ul[@class="arclist"]/li//img/@src').extract()
+# 正式文本
+response.xpath('//ul[@class="arclist"]/li/h2/a').extract()
+# 获得超链接文本
+response.xpath('//ul[@class="arclist"]/li/h2/a/text()').extract()
+# 获得超链接地址
+response.xpath('//ul[@class="arclist"]/li/h2/a/@href').extract()
+
+```
++ 然后根据调试结果，便携条件
+
 爬取整个网页完毕，接下来的就是的取过程了，首先观察页面源码：
 ```css 
 <div class="li_txt">
@@ -322,3 +355,180 @@ class Opp2Spider(scrapy.Spider):
 [原文链接 https://segmentfault.com/a/1190000013178839](https://segmentfault.com/a/1190000013178839)
 
 # weblearning
+
+## scrarpy 快速调试方法
+
+首先, 我们打开shell:
+```shell script
+scrapy shell http://doc.scrapy.org/en/latest/_static/selectors-sample1.html
+
+```
+
+
+接着，当shell载入后，您将获得名为 response 的shell变量，其为响应的response， 并且在其 response.selector 属性上绑定了一个selector。  
+
+因为我们处理的是HTML，选择器将自动使用HTML语法分析。  
+
+那么，通过查看 HTML code 该页面的源码，我们构建一个XPath来选择title标签内的文字:   
+```shell script
+
+>>> response.selector.xpath('//title/text()')
+[<Selector (text) xpath=//title/text()>]
+由于在response中使用XPath、CSS查询十分普遍，因此，Scrapy提供了两个实用的快捷方式: response.xpath() 及 response.css():
+
+>>> response.xpath('//title/text()')
+[<Selector (text) xpath=//title/text()>]
+>>> response.css('title::text')
+[<Selector (text) xpath=//title/text()>]
+```
+
+如你所见， .xpath() 及 .css() 方法返回一个类 SelectorList 的实例, 它是一个新选择器的列表。这个API可以用来快速的提取嵌套数据。
+
+为了提取真实的原文数据，你需要调用 .extract() 方法如下:
+```shell script
+>>> response.xpath('//title/text()').extract()
+[u'Example website']
+如果想要提取到第一个匹配到的元素, 必须调用 .extract_first() selector
+
+>>> response.xpath('//div[@id="images"]/a/text()').extract_first()
+u'Name: My image 1 '
+如果没有匹配的元素，则返回 None:
+
+>>> response.xpath('//div/[id="not-exists"]/text()').extract_first() is None
+True
+您也可以设置默认的返回值，替代 None :
+
+>>> sel.xpath('//div/[id="not-exists"]/text()').extract_first(default='not-found')
+'not-found'
+注意CSS选择器可以使用CSS3伪元素(pseudo-elements)来选择文字或者属性节点:
+
+>>> response.css('title::text').extract()
+[u'Example website']
+现在我们将得到根URL(base URL)和一些图片链接:
+
+>>> response.xpath('//base/@href').extract()
+[u'http://example.com/']
+
+>>> response.css('base::attr(href)').extract()
+[u'http://example.com/']
+
+>>> response.xpath('//a[contains(@href, "image")]/@href').extract()
+[u'image1.html',
+ u'image2.html',
+ u'image3.html',
+ u'image4.html',
+ u'image5.html']
+
+>>> response.css('a[href*=image]::attr(href)').extract()
+[u'image1.html',
+ u'image2.html',
+ u'image3.html',
+ u'image4.html',
+ u'image5.html']
+
+>>> response.xpath('//a[contains(@href, "image")]/img/@src').extract()
+[u'image1_thumb.jpg',
+ u'image2_thumb.jpg',
+ u'image3_thumb.jpg',
+ u'image4_thumb.jpg',
+ u'image5_thumb.jpg']
+
+>>> response.css('a[href*=image] img::attr(src)').extract()
+[u'image1_thumb.jpg',
+ u'image2_thumb.jpg',
+ u'image3_thumb.jpg',
+ u'image4_thumb.jpg',
+ u'image5_thumb.jpg']
+嵌套选择器(selectors)
+选择器方法( .xpath() or .css() )返回相同类型的选择器列表，因此你也可以对这些选择器调用选择器方法。下面是一个例子:
+
+>>> links = response.xpath('//a[contains(@href, "image")]')
+>>> links.extract()
+[u'<a href="image1.html">Name: My image 1 <br><img src="image1_thumb.jpg"></a>',
+ u'<a href="image2.html">Name: My image 2 <br><img src="image2_thumb.jpg"></a>',
+ u'<a href="image3.html">Name: My image 3 <br><img src="image3_thumb.jpg"></a>',
+ u'<a href="image4.html">Name: My image 4 <br><img src="image4_thumb.jpg"></a>',
+ u'<a href="image5.html">Name: My image 5 <br><img src="image5_thumb.jpg"></a>']
+
+>>> for index, link in enumerate(links):
+        args = (index, link.xpath('@href').extract(), link.xpath('img/@src').extract())
+        print 'Link number %d points to url %s and image %s' % args
+
+Link number 0 points to url [u'image1.html'] and image [u'image1_thumb.jpg']
+Link number 1 points to url [u'image2.html'] and image [u'image2_thumb.jpg']
+Link number 2 points to url [u'image3.html'] and image [u'image3_thumb.jpg']
+Link number 3 points to url [u'image4.html'] and image [u'image4_thumb.jpg']
+Link number 4 points to url [u'image5.html'] and image [u'image5_thumb.jpg']
+```
+
+### 结合正则表达式使用选择器(selectors)
+Selector 也有一个 .re() 方法，用来通过正则表达式来提取数据。然而，不同于使用 .xpath() 或者 .css() 方法, .re() 方法返回unicode字符串的列表。所以你无法构造嵌套式的 .re() 调用。  
+
+下面是一个例子，从上面的 HTML code 中提取图像名字:  
+```shell script
+>>> response.xpath('//a[contains(@href, "image")]/text()').re(r'Name:\s*(.*)')
+[u'My image 1',
+ u'My image 2',
+ u'My image 3',
+ u'My image 4',
+ u'My image 5']
+```
+
+另外还有一个糅合了 .extract_first() 与 .re() 的函数 .re_first() . 使用该函数可以提取第一个匹配到的字符串:  
+
+```shell script
+>>> response.xpath('//a[contains(@href, "image")]/text()').re_first(r'Name:\s*(.*)')
+u'My image 1'
+```
+
+使用相对XPaths
+记住如果你使用嵌套的选择器，并使用起始为 / 的XPath，那么该XPath将对文档使用绝对路径，而且对于你调用的 Selector 不是相对路径。
+``` 
+比如，假设你想提取在 <div> 元素中的所有 <p> 元素。首先，你将先得到所有的 <div> 元素:
+
+>>> divs = response.xpath('//div')
+开始时，你可能会尝试使用下面的错误的方法，因为它其实是从整篇文档中，而不仅仅是从那些 <div> 元素内部提取所有的 <p> 元素:
+
+>>> for p in divs.xpath('//p'):  # this is wrong - gets all <p> from the whole document
+...     print p.extract()
+下面是比较合适的处理方法(注意 .//p XPath的点前缀):
+
+>>> for p in divs.xpath('.//p'):  # extracts all <p> inside
+...     print p.extract()
+另一种常见的情况将是提取所有直系 <p> 的结果:
+
+>>> for p in divs.xpath('p'):
+...     print p.extract()
+更多关于相对XPaths的细节详见XPath说明中的 Location Paths 部分。
+
+使用EXSLT扩展
+因建于 lxml 之上, Scrapy选择器也支持一些 EXSLT 扩展，可以在XPath表达式中使用这些预先制定的命名空间：
+
+前缀	命名空间	用途
+re	http://exslt.org/regular-expressions	正则表达式
+set	http://exslt.org/sets	集合操作
+正则表达式
+例如在XPath的 starts-with() 或 contains() 无法满足需求时， test() 函数可以非常有用。
+
+例如在列表中选择有”class”元素且结尾为一个数字的链接:
+
+>>> from scrapy import Selector
+>>> doc = """
+... <div>
+...     <ul>
+...         <li class="item-0"><a href="link1.html">first item</a></li>
+...         <li class="item-1"><a href="link2.html">second item</a></li>
+...         <li class="item-inactive"><a href="link3.html">third item</a></li>
+...         <li class="item-1"><a href="link4.html">fourth item</a></li>
+...         <li class="item-0"><a href="link5.html">fifth item</a></li>
+...     </ul>
+... </div>
+... """
+>>> sel = Selector(text=doc, type="html")
+>>> sel.xpath('//li//@href').extract()
+[u'link1.html', u'link2.html', u'link3.html', u'link4.html', u'link5.html']
+>>> sel.xpath('//li[re:test(@class, "item-\d$")]//@href').extract()
+[u'link1.html', u'link2.html', u'link4.html', u'link5.html']
+>>>
+
+```
