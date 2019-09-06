@@ -8,4 +8,5 @@
 
 class WeblearningPipeline(object):
     def process_item(self, item, spider):
+        print(f"we will process item with {item}")
         return item

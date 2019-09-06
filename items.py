@@ -13,3 +13,5 @@ class WeblearningItem(scrapy.Item):
     # name = scrapy.Field()
     linkurl = scrapy.Field()
     linktxt =scrapy.Field()
+    linkdownload = scrapy.Field()
+    linkdownname = scrapy.Field()

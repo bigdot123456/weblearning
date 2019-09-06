@@ -139,54 +139,26 @@
       <dt> <span class="place">当前位置:<a href='http://www.1ppt.com/'>第一PPT</a> > <a href='/kejian/'>PPT课件</a> > <a href='/kejian/shuxue/'>数学课件</a> > <a href='/kejian/shuxue/293/'>人教版八年级数学上册</a> > </span> </dt>
       <dd>
         <ul class="arclist">
-          <li class='arclistbg1'><a href='/kejian/16642.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z211432b2J.jpg' alt='《分式方程》分式PPT课件4' /></a>
-            <h2><a href="/kejian/16642.html" class="title" target="_blank">《分式方程》分式PPT课件4</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式方程》分式PPT课件4 情景问题: 一艘轮船在静水中的最大航速为20千米/时，它沿江最大航速顺流航行100千米所用时间，与以最大航速逆流航行60千米所用时间相等，江水的水流速度为多少？ 分析： 设江水的水流速度为v千米/时.. </p>
-          </li><li class='arclistbg2'><a href='/kejian/16641.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2113622c96.jpg' alt='《分式方程》分式PPT课件3' /></a>
-            <h2><a href="/kejian/16641.html" class="title" target="_blank">《分式方程》分式PPT课件3</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式方程》分式PPT课件3 【问题】 一艘轮船在静水中的最大航速为20千米/时它沿江以最大航速顺流航行100千米所用时间 与以最大航速航行60千米所用时间相等 江水的流速为多少? 解:设江水的流速为 v 千米/时，根据题意，得 100/.. </p>
-          </li><li class='arclistbg1'><a href='/kejian/16640.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z211263S606.jpg' alt='《分式方程》分式PPT课件2' /></a>
-            <h2><a href="/kejian/16640.html" class="title" target="_blank">《分式方程》分式PPT课件2</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式方程》分式PPT课件2 教学目标 【课程标准】 1．了解分式方程的概念 和产生增根的原因． 2．掌握分式方程的解法，会解可化为一元一次方程的分式方程，会检验一个数是不是原方程的增根． 3．会分析题意找出等量关系． 4．.. </p>
-          </li><li class='arclistbg2'><a href='/kejian/16639.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z21115095341.jpg' alt='《分式方程》分式PPT课件' /></a>
-            <h2><a href="/kejian/16639.html" class="title" target="_blank">《分式方程》分式PPT课件</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式方程》分式PPT课件 学习目标： 1、理解整式方程、分式方程及增根的概念； 2、掌握可化为一元一次、一元二次方程的分式方程的解法； 3、了解分式方程产生增根的原因及掌握验根的方法。 增根的定义 增根:在去分母将分式方.. </p>
-          </li><li class='arclistbg1'><a href='/kejian/16638.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2110500K96.jpg' alt='《分式方程的应用》分式PPT课件2' /></a>
-            <h2><a href="/kejian/16638.html" class="title" target="_blank">《分式方程的应用》分式PPT课件2</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式方程的应用》分式PPT课件2 教学目标： 1、用列表法列分式方程、解决现实情境中的问题。 2、体会数学模型的应用价值。 教学重点：利用列表法审明题意，将实际问题转化为分式方程的数学模型。 教学难点：从有形的列表逐渐.. </p>
-          </li><li class='arclistbg2'><a href='/kejian/16637.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2105G09391.jpg' alt='《分式方程的应用》分式PPT课件' /></a>
-            <h2><a href="/kejian/16637.html" class="title" target="_blank">《分式方程的应用》分式PPT课件</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式方程的应用》分式PPT课件 例题3： 两个工程队共同参与一项筑路工程，甲队单施工1个月完成总工程的三分之一，这时增加了乙队，两队又共同工作了半个月，总工程全部完成。哪个的施工队速度快？ 分析：甲队1个月完成总工程.. </p>
-          </li><li class='arclistbg1'><a href='/kejian/16636.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2104F41V0.jpg' alt='《分式的混合运算》分式PPT课件' /></a>
-            <h2><a href="/kejian/16636.html" class="title" target="_blank">《分式的混合运算》分式PPT课件</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式的混合运算》分式PPT课件 研究解决： 这是一道关于分式乘除的题目，运算时应注意： ①按照运算法则运算； ②乘除运算属于同级运算，应按照先出现的先算的原则，不能交换运算顺序； ③当除写成乘的形式时，灵活的应用乘法.. </p>
-          </li><li class='arclistbg2'><a href='/kejian/16635.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z21031131002.jpg' alt='《分式的加减》分式PPT课件' /></a>
-            <h2><a href="/kejian/16635.html" class="title" target="_blank">《分式的加减》分式PPT课件</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式的加减》分式PPT课件 教学目标 【知识与能力】 理解并掌握分式加减法则，并会运用它们时行分式的加减运算． 【过程与方法】 通过类比的方法，经历探索分式加减运算法则的过程，理解其算理． 【情感态度与价值观】 在活动.. </p>
-          </li><li class='arclistbg1'><a href='/kejian/16634.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z210163W4R.jpg' alt='《分式的乘除》分式PPT课件' /></a>
-            <h2><a href="/kejian/16634.html" class="title" target="_blank">《分式的乘除》分式PPT课件</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式的乘除》分式PPT课件 分式的乘法法则 两个分式相乘，把分子相乘的积作为积的分子，把分母相乘的积作为积的分母。 用符号语言表达： a/bc/d=ac/bd 两个分式相除，把除式的分子和分母颠倒位置后再与被除式相乘。 用符号语.. </p>
-          </li><li class='arclistbg2'><a href='/kejian/16633.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z20956264964.jpg' alt='《分式》PPT课件3' /></a>
-            <h2><a href="/kejian/16633.html" class="title" target="_blank">《分式》PPT课件3</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式》PPT课件3 想一想？ 甲乙两人做某种机器零件。已知甲每小时比乙多做6个，甲做90个所用的时间与乙做60个所用的时间相等。求甲、乙每小时各做多少个？ 1. 甲每小时做x个零件，做90个零件所用的时间是90x小时，还可用式子9.. </p>
-          </li><li class='arclistbg1'><a href='/kejian/16632.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2093114D02.jpg' alt='《分式》PPT课件2' /></a>
-            <h2><a href="/kejian/16632.html" class="title" target="_blank">《分式》PPT课件2</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式》PPT课件2 教学目标、重点、难点 能用分式表示现实情境中的数量关系， 体会分式的模型思想，进一步发展符号感。 了解分式的概念，明确分式与整式的区别。 在土地沙化问题中， 体会保护人类生存环境的重要性。 了解分式.. </p>
-          </li><li class='arclistbg2'><a href='/kejian/16631.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1509/2_0Z2091J0c95.jpg' alt='《分式》PPT课件' /></a>
-            <h2><a href="/kejian/16631.html" class="title" target="_blank">《分式》PPT课件</a></h2>
-            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-09-02 </span>
-            <p class="intro"> 《分式》PPT课件 单项式:数与字母或字母与字母的积 多项式:几个单项式的和 注意:代数式包括整式，也就是说整式是代数式但代数式就不一定是整式了． 注解： （１）分式也是代数式； （２）分式是两个整式的商，它的形式是A/B（.. </p>
+          <li class='arclistbg1'><a href='/kejian/16570.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1508/2_0S0092U5T95.jpg' alt='《三角形的边》三角形PPT课件2' /></a>
+            <h2><a href="/kejian/16570.html" class="title" target="_blank">《三角形的边》三角形PPT课件2</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-08-30 </span>
+            <p class="intro"> 《三角形的边》三角形PPT课件2 学习目标 认识三角形，了解三角形的定义，认识三角形的边，内角，顶点，能用符号语言表示三角形。 能从不同角度对三角形进行分类。 掌握三角形三边的不等关系，并能运用三角形三边的不等关系解决.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16569.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1508/2_0S0091R09A9.jpg' alt='《三角形的稳定性》三角形PPT课件' /></a>
+            <h2><a href="/kejian/16569.html" class="title" target="_blank">《三角形的稳定性》三角形PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-08-30 </span>
+            <p class="intro"> 《三角形的稳定性》三角形PPT课件 1、下列图形中具有稳定性的是（ ） （A）正方形 （B）长方形 （C）直角三角形 （D）平行四边形 2、要使下列木架稳定各至少需要多少根木棍？ 3.如图，工人师傅砌门时，常用木条EF固定门框ABCD.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16568.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1508/2_0S00910312616.jpg' alt='《三角形的高、中线与角平分线》三角形PPT课件' /></a>
+            <h2><a href="/kejian/16568.html" class="title" target="_blank">《三角形的高、中线与角平分线》三角形PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-08-30 </span>
+            <p class="intro"> 《三角形的高、中线与角平分线》三角形PPT课件 三角形的高 从三角形的一个顶点向它的对边所在直线作垂线，顶点和垂足之间的线段叫做三角形这边的高，简称三角形的高。 如图，线段AD是BC边上的高 三角形高的符号语言： ∵AD是△.. </p>
+          </li><li class='arclistbg2'><a href='/kejian/16567.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/1508/2_0S00UT15628.jpg' alt='《三角形的边》三角形PPT课件' /></a>
+            <h2><a href="/kejian/16567.html" class="title" target="_blank">《三角形的边》三角形PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-08-30 </span>
+            <p class="intro"> 《三角形的边》三角形PPT课件 学生活动 (1)交流在日常生活中所看到的三角形. (2)选派代表说明三角形的存在于我们的生活之中. 读一读 阅读课本P1～2，并回答以下问题: (1)什么叫三角形? (2)三角形有几条边?有几个内角?有几个顶.. </p>
+          </li><li class='arclistbg1'><a href='/kejian/16501.html' class='preview' target='_blank'><img src='http://img.1ppt.com/uploads/allimg/mulu.jpg' alt='【目录】人教版八年级数学上册PPT课件' /></a>
+            <h2><a href="/kejian/16501.html" class="title" target="_blank">【目录】人教版八年级数学上册PPT课件</a></h2>
+            <span class="info"> <small>栏目：<a href='/kejian/shuxue/293/'>人教版八年级数学上册</a></small> <small>日期：</small>2015-08-28 </span>
+            <p class="intro"> 人教版八年级语文上册全册PPT课件、Flash课件，由第一PPT模板网整理，借此平台免费提供给各位老师下载使用。本套人教版八年级数学上册课件大部分为PPT课件，小部分为FLASH动画课件，也包括一部分MP3课文朗读，为了方便各位教师.. </p>
           </li>
         </ul>
         <!-- /listbox -->
@@ -202,16 +174,16 @@
         </table>
         <div class="clearfix">
           <ul class="pages">
-            <li class="nohref">首页</li>
-<li class="thisclass">1</li>
+            <li><a href="/kejian/shuxue/293/">首页</a></li>
+<li><a href="kejian_6.html">上一页</a></li>
+<li><a href="/kejian/shuxue/293/">1</a></li>
 <li><a href="kejian_2.html">2</a></li>
 <li><a href="kejian_3.html">3</a></li>
 <li><a href="kejian_4.html">4</a></li>
 <li><a href="kejian_5.html">5</a></li>
 <li><a href="kejian_6.html">6</a></li>
-<li><a href="kejian_7.html">7</a></li>
-<li><a href='kejian_2.html'>下一页</a></li>
-<li><a href='kejian_7.html'>末页</a></li>
+<li class="thisclass">7</li>
+<li class="nohref">末页</li>
 
           </ul>
         </div>

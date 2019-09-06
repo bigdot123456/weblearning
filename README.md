@@ -13,6 +13,7 @@ git push -u origin master
 ```bash
 scrapy startproject weblearning
 scrapy genspider searchsite www.1ppt.com/kejian/16501.html
+scrapy shell http://www.1ppt.com/kejian/shuxue/293/
 ``` 
 
 
